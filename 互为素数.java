@@ -1,6 +1,6 @@
 package shujujiegou;
 
-public class »¥ÎªËØÊý {
+public class äº’ä¸ºç´ æ•° {
 	public static double proRelPrim(int n)
 	{
 		int rel=0,tot=0;
