@@ -1,6 +1,6 @@
 package shujujiegou;
 
-public class ¶ş·Ö²éÕÒ {
+public class äºŒåˆ†æŸ¥æ‰¾ {
 private static final int NOT_FOUND = -1;
 
 public static <AnyType extends Comparable<? super AnyType>>
